@@ -1,0 +1,6 @@
+To improve:
+- delete admin path
+- interface
+- more levels
+- maybe instructions?
+- multiplayer?

@@ -1,0 +1,24 @@
+D:\12 E\mouse obst\mouse obst\bin\Debug\mouse obst.exe.config
+D:\12 E\mouse obst\mouse obst\obj\Debug\mouse_obst.Form1.resources
+D:\12 E\mouse obst\mouse obst\obj\Debug\mouse_obst.Properties.Resources.resources
+D:\12 E\mouse obst\mouse obst\obj\Debug\mouse obst.csproj.GenerateResource.Cache
+D:\12 E\mouse obst\mouse obst\bin\Debug\mouse obst.exe
+D:\12 E\mouse obst\mouse obst\bin\Debug\mouse obst.pdb
+D:\12 E\mouse obst\mouse obst\obj\Debug\mouse obst.exe
+D:\12 E\mouse obst\mouse obst\obj\Debug\mouse obst.pdb
+D:\12 E\mouse obst\mouse obst\obj\Debug\mouse_obst.Form2.resources
+D:\12 E\mouse obst\mouse obst\obj\Debug\mouse_obst.Form3.resources
+D:\DOCs\atestat\mouse obst\mouse obst\bin\Debug\mouse obst.exe.config
+D:\DOCs\atestat\mouse obst\mouse obst\obj\Debug\mouse obst.exe
+D:\DOCs\atestat\mouse obst\mouse obst\obj\Debug\mouse obst.pdb
+D:\DOCs\atestat\mouse obst\mouse obst\bin\Debug\mouse obst.exe
+D:\DOCs\atestat\mouse obst\mouse obst\bin\Debug\mouse obst.pdb
+D:\DOCs\atestat\mouse obst\mouse obst\obj\Debug\mouse obst.csprojResolveAssemblyReference.cache
+D:\DOCs\atestat\mouse obst\mouse obst\obj\Debug\mouse_obst.Form1.resources
+D:\DOCs\atestat\mouse obst\mouse obst\obj\Debug\mouse_obst.Form2.resources
+D:\DOCs\atestat\mouse obst\mouse obst\obj\Debug\mouse_obst.Form3.resources
+D:\DOCs\atestat\mouse obst\mouse obst\obj\Debug\mouse_obst.Properties.Resources.resources
+D:\DOCs\atestat\mouse obst\mouse obst\obj\Debug\mouse obst.csproj.GenerateResource.Cache
+D:\DOCs\Informatica\atestat\mouse obst\mouse obst\bin\Debug\mouse obst.exe.config
+D:\DOCs\Informatica\atestat\mouse obst\mouse obst\obj\Debug\mouse obst.exe
+D:\DOCs\Informatica\atestat\mouse obst\mouse obst\obj\Debug\mouse obst.pdb
